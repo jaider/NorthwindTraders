@@ -3,6 +3,7 @@
 Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core. The architecture and design of the project is explained in the video:
 
 * [Developing Enterprise Apps with ASP.NET Core 2.1](https://youtu.be/fAJrVf8f6M4)
+* Newer with Core 3.0 [https://www.youtube.com/watch?v=5OtUm1BLmG0](https://www.youtube.com/watch?v=5OtUm1BLmG0)
 
 The initial construction of this project is explained in the following blog posts:
 
